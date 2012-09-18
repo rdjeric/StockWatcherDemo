@@ -223,5 +223,8 @@ public class StockWatcher implements EntryPoint {
 
 	  }
   
+  public void newMethod()
+  { System.out.println("abc");}
+  
 
 }
